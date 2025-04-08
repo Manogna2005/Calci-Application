@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calci Web Page</title>
+    <style>
+        .main{
+            width:800px;
+            height:500px;
+            background-color: rgb(232, 255, 131);
+            border-radius: 2px;
+            padding: 20px;
+            text-align: left;
+            border: 3px solid black;
+        }
+        input{
+            font-size:25px;
+        }
+        body{
+            background-color: rgb(197, 228, 60);
+        }
+        .button{
+            background-color: rgb(85, 85, 225);
+            color:black;
+            font-size:35px;
+            border:3px solid black;
+        }
+    </style>
+</head>
+<body>
+    <center>
+        <h1 style="color:rgb(79, 9, 146); font-size:50px;">Basic Calci Application</h1>
+    <div class="main">
+        <h1>Enter a : <input type="text" id="a"/> </h1>
+        
+        <h1>Enter b : <input type="text" id="b"/> </h1>
+        <h2 style="color:rgb(232, 255, 131); border: 3px solid black; text-align: center; background-color: rgb(79, 9, 146);">Hey, Select your Operation!</h2>
+        <h2><input type="radio" name="operation" value="Addition"/>Add</h>
+        <h2><input type="radio" name="operation" value="Subtraction"/>Subtract</h2>
+        <h2><input type="radio" name="operation" value="Multiplication"/>Multiply</h2>
+        <h2><input type="radio" name="operation" value="Division"/>Divide</h2>
+            <h1 style="font-family: cursive;">Result : <input type="text" id="res"/> </h1>
+    
+    <center>
+        <button class="button" type="button" onclick="compute()">Compute</button>
+    </center>
+        </div>
+    </center>
+    <script src="./index.js"></script>
+</body>
+</html>
