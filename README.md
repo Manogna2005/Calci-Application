@@ -1,25 +1,31 @@
-Basic Calci Application 
+# ✨ Basic Calci Application 
 
-A colorful, interactive web-based calculator made with pure **HTML**, **CSS**, and **JavaScript**. Perfect for beginners exploring the world of web development!
+A colorful, interactive web-based calculator made with pure **HTML**, **CSS (embedded)**, and **JavaScript**. Perfect for beginners exploring the world of web development!
 
-**Preview**
+---
 
-![image](https://github.com/user-attachments/assets/b2d04ce7-cf71-4207-98d3-6061d22e2065)
+##  Preview
+
+![image](https://github.com/user-attachments/assets/c0cbc9d7-6a8d-4c66-a691-5f02267ba908)
 
 
+##  What It Does
 
 This application allows you to:
 
-- Enter two numbers  
-- Choose your operation (Add, Subtract, Multiply, Divide)  
-- Instantly view the result on screen with a single click
+-  Enter two numbers  
+-  Choose your operation (Add, Subtract, Multiply, Divide)  
+-  Instantly view the result on screen with a single click
 
+All of this inside a **vibrant UI** that's fun and easy to use!
 
-**Tech Stack**
+---
 
-- **HTML** 
-- **CSS (Embedded)** 
-- **JavaScript**  
+##  Tech Stack
+
+- **HTML** — for structure  
+- **CSS** — for styling  
+- **JavaScript** — for logic and interactivity  
 
 ---
 
