@@ -17,15 +17,13 @@ This application allows you to:
 -  Choose your operation (Add, Subtract, Multiply, Divide)  
 -  Instantly view the result on screen with a single click
 
-All of this inside a **vibrant UI** that's fun and easy to use!
 
----
 
 ##  Tech Stack
 
-- **HTML** — for structure  
-- **CSS** — for styling  
-- **JavaScript** — for logic and interactivity  
+- **HTML** 
+- **CSS** 
+- **JavaScript**  
 
 ---
 
